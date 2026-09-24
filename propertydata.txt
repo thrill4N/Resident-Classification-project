@@ -1,0 +1,19 @@
+1001#Thabo Nkosi#950000
+1002#Anele Dlamini#1750000
+1003#Sarah Botha#1320000
+1004#Kagiso Molefe#1980000
+1005#Michael Steyn#1120000
+1006#Lerato Mahlangu#2450000
+1007#Nomsa Radebe#860000
+1008#Rendani Netshifhefhe#1450000
+1009#Ayanda Cele#1580000
+2001#Johan van der Merwe#8500#12
+2002#Precious Mokoena#6500#6
+2003#Naledi Sithole#9500#12
+2004#David Pretorius#7200#6
+2005#Fatima Adams#10500#24
+2006#Bongani Zulu#8000#12
+2007#Pieter de Klerk#7800#6
+2008#Christo Fourie#6900#12
+2009#Willem Botha#11000#24
+2010#Palesa Tshabalala#7300#6
